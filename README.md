@@ -4,6 +4,7 @@ Parinde is a purpose-built drone designed to empower frontline public service wo
 ________________________________________
 Mission & Vision
 In many urban and semi-urban regions of our country, narrow roads and heavy congestion hinder the effective movement of emergency services. Parinde addresses this by providing a compact, highly mobile aerial platform capable of navigating these environments and delivering critical real-time data.
+
 Its core functionality is focused on image processing and real-time analytics—detecting traffic congestion, identifying its root cause, and triggering alerts to the relevant departments. Whether it’s an accident, a fire, or a medical emergency, Parinde ensures that the Police, Fire Department, and Health Services are informed and coordinated swiftly to safeguard the lives of citizens.
 ________________________________________
 Key Features
